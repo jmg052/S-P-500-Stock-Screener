@@ -2,7 +2,7 @@
 This is a simple stock screener for my finance class.
 
 Ultilizes: 
--WRDS for Financial Ratio Data & Stock Price Data
+-SQL Query from WRDS for Financial Ratio Data & Stock Price Data
 -TKinter for GUI
 -BeautifulSoup for webscraping from Wikipedia
 
